@@ -1,2 +1,2 @@
 # graph-theory
-My notes and implementations of some graph algorithms
+Notes and implementations of graph algorithms.
